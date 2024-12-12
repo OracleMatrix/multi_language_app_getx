@@ -1,16 +1,13 @@
-# multi_language_app_getx
+# Multi Language App with GetX
 
-A new Flutter project.
+## You will learn :
+- the easiest and fastest way to make your app `Multi language` support
 
-## Getting Started
+- some `GetX` tips and tricks
+- working with `get_storage` for saving data to local cache
 
-This project is a starting point for a Flutter application.
+## Dependencies
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+- `get`
+- `get_storage`
+- `country_picker`
